@@ -16,6 +16,10 @@ public class BubbleSort {
 		
 	}
 
+	public  void m2() {
+		// TODO Auto-generated method stub HS-134
+		
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 int a[]= {5,8,1,2,3,1};
