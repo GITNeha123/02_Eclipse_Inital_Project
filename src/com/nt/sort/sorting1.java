@@ -28,5 +28,9 @@ public class sorting1 {
 		for(int i=1;i<a.length; i++){
 			System.out.print(a[i]+", ");
 			}
+		
+		System.out.println("Good Days");
+		System.out.println("Good Morning");
+		
 		}
 }
